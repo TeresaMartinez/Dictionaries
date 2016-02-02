@@ -1,0 +1,310 @@
+data_el = dict(
+        n = Properties(
+        //the boiling point of the element
+          bpt = {'BPT': 0},
+        //the melting point of the element
+          mpt = {'MPT': 0},
+        //the desity of the element
+          dty = {'DTY': 0},
+        //the thermal conducitivity of the element 
+          thm = {'THM': 0},
+        //the specific heat capacity of the element 
+          shc = {'SHC': 0},
+        ),
+        
+        H = Properties(
+          bpt = {'BPT': −252.879},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        ),
+       
+        He = Properties(
+          bpt = {'BPT': −268.928},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        ), 
+        
+        Li = Properties(
+          bpt = {'BPT': 1342.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        ), 
+         
+        Be = Properties(
+          bpt = {'BPT': 2469.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        ),
+        
+        B = Properties(
+          bpt = {'BPT': 3927.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        ),
+        
+        C = Properties(
+          bpt = {'BPT': 3825.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        ),
+        
+        N = Properties(
+          bpt = {'BPT': −195.795},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        ),
+        
+        O = Properties(
+          bpt = {'BPT': −182.962},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        F = Properties(
+          bpt = {'BPT': −188.110},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Ne = Properties(
+          bpt = {'BPT': −246.046},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        Na = Properties(
+          bpt = {'BPT': 882.940},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Mg = Properties(
+          bpt = {'BPT': 1090.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Al = Properties(
+          bpt = {'BPT': 2519.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Si = Properties(
+          bpt = {'BPT': 3265.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        P = Properties(
+          bpt = {'BPT': 280.500},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        S = Properties(
+          bpt = {'BPT': 444.60},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Cl = Properties(
+          bpt = {'BPT': −34.040},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Ar = Properties(
+          bpt = {'BPT': −185.848},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        K = Properties(
+          bpt = {'BPT': 759.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Ca = Properties(
+          bpt = {'BPT': 1484.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Sc = Properties(
+          bpt = {'BPT': 2836.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Ti = Properties(
+          bpt = {'BPT': 3287.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        V = Properties(
+          bpt = {'BPT': 3407.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Cr = Properties(
+          bpt = {'BPT': 2671.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        
+        Mn = Properties(
+          bpt = {'BPT': 2061.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Fe = Properties(
+          bpt = {'BPT': 2861.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Co = Properties(
+          bpt = {'BPT': 2927.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Ni = Properties(
+          bpt = {'BPT': 2913.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Cu = Properties(
+          bpt = {'BPT': 2562.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Zn = Properties(
+          bpt = {'BPT': 907.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Ga = Properties(
+          bpt = {'BPT': 2204.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Ge = Properties(
+          bpt = {'BPT': 2833.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        As = Properties(
+          bpt = {'BPT': 603.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Se = Properties(
+          bpt = {'BPT': 685.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Br = Properties(
+          bpt = {'BPT': 58.800},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Kr = Properties(
+          bpt = {'BPT': −153.415},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+        
+        Rb = Properties(
+          bpt = {'BPT': 688.000},
+          mpt = {'MPT': 0},
+          dty = {'DTY': 0},
+          thm = {'THM': 0},
+          shc = {'SHC': 0},
+        )
+)
